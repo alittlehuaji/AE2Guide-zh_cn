@@ -3,7 +3,7 @@
 [![Action](../../actions/workflows/release.yml/badge.svg)](../../actions/workflows/release.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
-一个面向 [Applied Energistics 2（AE2）](https://github.com/AppliedEnergistics/Applied-Energistics-2) 的中文翻译资源包，该资源包属于HapppyMC Ember Project系列
+一个面向 [Applied Energistics 2（AE2）](https://github.com/AppliedEnergistics/Applied-Energistics-2) 的中文翻译资源包，该资源包属于HappyMC Ember Project系列
 
 > 本资源包使用了生成式人工智能技术来协助翻译
 
@@ -12,7 +12,7 @@
 > [!IMPORTANT]
 > 本资源包**仅覆盖 AE2 的游戏内指南（AE2 Guide）部分**，也就是游戏中「AE2 指南书」里的说明文档
 >
-> 本资源包基于 [AE2 19.2.17](https://modrinth.com/mod/ae2/version/kfyIqgJ6)版本进行制作
+> 本资源包基于 [AE2 19.2.17](https://modrinth.com/mod/ae2/version/kfyIqgJ6) 版本进行制作
 
 翻译内容对应仓库中 `assets/ae2/ae2guide/` 下的各篇指南文档，包括入门指引、AE2 机制说明、物品 / 方块 / 机器介绍以及示例装置等。
 
