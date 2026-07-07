@@ -1,9 +1,11 @@
-# HappyMC Ember 汉化资源包
+# Applied Energistics 2 汉化资源包
 
 [![Action](../../actions/workflows/release.yml/badge.svg)](../../actions/workflows/release.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
-一个面向 [Applied Energistics 2（AE2）](https://github.com/AppliedEnergistics/Applied-Energistics-2) 的中文翻译资源包。
+一个面向 [Applied Energistics 2（AE2）](https://github.com/AppliedEnergistics/Applied-Energistics-2) 的中文翻译资源包，该资源包属于HapppyMC Ember Project系列
+
+> 本资源包使用了生成式人工智能技术来协助翻译
 
 ## 覆盖范围
 
@@ -18,7 +20,7 @@
 
 ### 方式一：直接下载（推荐）
 
-前往仓库的 **[Releases](../../releases/latest)** 页面，下载最新版的 `HappyMC_Ember_TranslatePack-*.zip`，即可跳过下面的打包步骤，直接进行[安装](#安装)。
+前往仓库的 **[Releases](../../releases/latest)** 页面，下载最新版的 `HappyMC_Ember_TranslatePack_AE2Guide-*.zip`，即可跳过下面的打包步骤，直接进行[安装](#安装)。
 
 > Release 中的 zip 由 GitHub Actions 自动打包，结构已经符合要求，下载后无需解压即可使用。
 
@@ -27,7 +29,7 @@
 将 `assets` 文件夹连同 `pack.mcmeta`（见下）一起压缩成一个 `.zip` 文件。**注意：压缩包内的第一层必须直接是 `assets/` 和 `pack.mcmeta`，而不是再套一层项目文件夹。**
 
 ```
-HappyMC_Ember_TranslatePack.zip
+HappyMC_Ember_TranslatePack_AE2Guide.zip
 ├── assets/
 │   └── ae2/
 │       └── ae2guide/
@@ -39,12 +41,12 @@ HappyMC_Ember_TranslatePack.zip
 
 ```bash
 # Linux / macOS
-zip -r HappyMC_Ember_TranslatePack.zip assets pack.mcmeta
+zip -r HappyMC_Ember_TranslatePack_AE2Guide.zip assets pack.mcmeta
 ```
 
 ```powershell
 # Windows PowerShell
-Compress-Archive -Path assets, pack.mcmeta -DestinationPath HappyMC_Ember_TranslatePack.zip
+Compress-Archive -Path assets, pack.mcmeta -DestinationPath HappyMC_Ember_TranslatePack_AE2Guide.zip
 ```
 
 ### 安装
