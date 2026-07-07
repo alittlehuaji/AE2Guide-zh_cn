@@ -1,6 +1,6 @@
 # HappyMC Ember 汉化资源包
 
-[![打包并发布资源包](../../actions/workflows/release.yml/badge.svg)](../../actions/workflows/release.yml)
+[![Action](../../actions/workflows/release.yml/badge.svg)](../../actions/workflows/release.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
 一个面向 [Applied Energistics 2（AE2）](https://github.com/AppliedEnergistics/Applied-Energistics-2) 的中文翻译资源包。
